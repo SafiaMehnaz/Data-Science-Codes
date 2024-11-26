@@ -6,3 +6,5 @@ Data Science Essential by Safia Mehnaz
 
 ## Color Combination Code
 
+![Alt text](images/ColorCodes.jpeg)
+
